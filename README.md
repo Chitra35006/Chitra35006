@@ -8,7 +8,6 @@
 <h3 align="center">A passionate Frontend Developer from 🇧🇩</h3>  
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-###
 
 <div align="center">
    <table align="center" width="100%">
