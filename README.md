@@ -35,15 +35,13 @@ I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, 
 
 <div>
 <!-- left side section -->
-## 📖 Favorite Quote  
+📖 Favorite Quote  
 
-<div align="center">
-  <blockquote>
-    <em>  
-      "And He found you lost and guided [you]."  
-    </em>
-  </blockquote>
-</div>
+<table align="center">
+  <tr>
+    <td><em> "And He found you lost and guided [you]." </em></td>
+  </tr>
+</table>
 
 - 🔭 I’m currently working on [...thisProject]
 - 🖥️ I’m currently learning **JWT and Axios Interceptor**
