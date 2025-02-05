@@ -149,15 +149,15 @@ I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, 
   <a href="https://www.linkedin.com/in/chitra-das-cse/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />
   </a> 
-  |  
+   
   <a href="https://t.me/01820865544" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="30" alt="telegram logo" />
   </a> 
-  |  
+   
   <a href="https://wa.me/8801533765542" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="30" alt="whatsapp logo" />
   </a> 
-  |  
+  
   <a href="https://www.facebook.com/chitra18.cse" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="30" alt="facebook logo" />
   </a>
