@@ -14,10 +14,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chitra35006&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Chitra35006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Chitra35006&theme=blue-green&hide_border=true&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
 
 ###
 
