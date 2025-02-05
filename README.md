@@ -76,10 +76,32 @@
 </p>
 
 <!-- Technologies Slider -->
+<style>
+  @keyframes borderAnimation {
+    0% { border-color: red; }
+    25% { border-color: blue; }
+    50% { border-color: green; }
+    75% { border-color: orange; }
+    100% { border-color: red; }
+  }
+
+  .animated-border {
+    display: inline-block;
+    padding: 10px;
+    border: 5px solid red;
+    border-radius: 10px;
+    animation: borderAnimation 3s infinite linear;
+  }
+</style>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=2000&center=true&vCenter=true&width=700&lines=HTML5+CSS3+JavaScript+React+;ES6+Redux+React-Router+Context-API+Git+;Tailwind-CSS+Styled-Components+MaterialUI+Ant Design;Firebase+Nodejs+ExpressJs+MongoDB+JWT;React-Native+NextJs+Netlify" alt="Typing SVG" />
+    <div class="animated-border">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=2000&center=true&vCenter=true&width=700&lines=HTML5+CSS3+JavaScript+React+;ES6+Redux+React-Router+Context-API+Git+;Tailwind-CSS+Styled-Components+MaterialUI+Ant Design;Firebase+Nodejs+ExpressJs+MongoDB+JWT;React-Native+NextJs+Netlify" 
+      alt="Typing SVG" />
+    </div>
   </a>
 </p>
+
 
 
