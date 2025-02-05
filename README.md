@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://github.com/Chitra35006/5_practice/blob/a02a867470bf67660114b4b502ab86eec4a5e263/my-banner.jpg"  />
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=Chitra35006&label=Profile%20views&color=6f42c1&style=flat" alt="Chitra35006" />
 </span> 
@@ -149,7 +149,7 @@ Contact with me
   <a href="https://www.linkedin.com/in/chitra-das-cse/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />
   </a>
-  <a href="https://t.me/01533765542" target="_blank" rel="noreferrer">
+  <a href="https://t.me/01820865544" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="30" alt="telegram logo" />
   </a>
   <a href="https://wa.me/8801533765542" target="_blank" rel="noreferrer">
