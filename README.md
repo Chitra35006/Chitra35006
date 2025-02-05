@@ -37,7 +37,7 @@ I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, 
 <!-- left side section -->
 📖 Favorite Quote  
 
-<table align="right">
+<table align="end">
   <tr>
     <td><em> "And He found you lost and guided [you]." </em></td>
   </tr>
