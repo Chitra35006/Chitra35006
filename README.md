@@ -35,9 +35,16 @@ I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, 
 
 <div>
 <!-- left side section -->
-## 📖 Favorite Quote:
-  
-> "And He found you lost and guided [you]" 
+## 📖 Favorite Quote  
+
+<div align="center">
+  <blockquote>
+    <em>  
+      "And He found you lost and guided [you]."  
+    </em>
+  </blockquote>
+</div>
+
 - 🔭 I’m currently working on [...thisProject]
 - 🖥️ I’m currently learning **JWT and Axios Interceptor**
 - 👨‍💻 Ask me about **HTML, CSS, TailwindCSS, DOM, API, JavaScript, React, Nodejs, Mongodb,  firebase**
