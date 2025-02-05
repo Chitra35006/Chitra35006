@@ -143,8 +143,8 @@ I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, 
 
   <br/>
 <h1 align="center">
-Contact with me 
-  </h1>
+  Contact with me 
+</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/chitra-das-cse/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />
@@ -159,6 +159,7 @@ Contact with me
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="30" alt="facebook logo" />
   </a>
 </div>
+
 
 
 
