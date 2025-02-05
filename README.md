@@ -10,6 +10,22 @@
 <h3 align="center">A passionate Frontend Developer from 🇧🇩</h3>  
 
 <br />
+<h2 align="left">About me</h2>
+
+###
+I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, Bangladesh**. I am highly enthusiastic and curious to explore and learn new advancements in this field.
+
+### 💻 Tech Stack:
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, MongoDB
+
+### 🏆 Projects:
+- **[Winter Donation](#)** - A donation platform
+- **[WhereIsIt](#)** - A lost & found website
+- **[Perfect Pair](#)** - A matrimonial website
+
+📌 Check out my **[Portfolio](#)** for more details!
+
 
 <!-- right side img -->
 <img align='right' height='180'  src='https://i.ibb.co/Ps2sZN83/back-to-school-14869-256.gif'>
