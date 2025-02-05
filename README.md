@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="100%" src="https://github.com/Chitra35006/5_practice/blob/a02a867470bf67660114b4b502ab86eec4a5e263/my-banner.jpg"  />
+  <img height="300" width="100%" src="https://github.com/Chitra35006/5_practice/blob/059dd47335f29f08542ac83c903799fc2d233e62/b2.jpg"  />
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=Chitra35006&label=Profile%20views&color=6f42c1&style=flat" alt="Chitra35006" />
 </span> 
@@ -37,7 +37,7 @@ I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, 
 <!-- left side section -->
 📖 Favorite Quote  
 
-<table align="center">
+<table align="right">
   <tr>
     <td><em> "And He found you lost and guided [you]." </em></td>
   </tr>
