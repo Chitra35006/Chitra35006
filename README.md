@@ -18,19 +18,19 @@
 <!-- left side section -->
 ## 📖 Favorite Quote:
   
-> "And He found you lost and guided [you]"> 
+> "And He found you lost and guided [you]" 
 - 🔭 I’m currently working on [...thisProject]
 - 🖥️ I’m currently learning **JWT and Axios Interceptor**
 - 👨‍💻 Ask me about **HTML, CSS, TailwindCSS, DOM, API, JavaScript, React, Nodejs, Mongodb,  firebase**
 - ⚡ Fun fact: 💤 I dream in code sometimes.
 
 </div>
-<br/>
 ### 🎯 Goals for 2025
 - 🚀 Contribute to an open-source project  
-- 📚 Learn TypeScript & improve backend skills    
+- 📚 Learn TypeScript & improve backend skills  
 - 🎨 Work on UI/UX improvements in my projects  
 - 🌍 Build a side project that helps the community  
+
 
 
 <div align="center" style="overflow: hidden;">
