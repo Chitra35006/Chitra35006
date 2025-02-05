@@ -26,13 +26,6 @@
 
 </div>
 
-### 🎯 Goals for 2025
-⭐ Contribute to an open-source project  
-⭐ Learn TypeScript & improve backend skills  
-⭐ Work on UI/UX improvements in my projects  
-⭐ Build a side project that helps the community  
-
-
 
 <div align="center" style="overflow: hidden;">
    <table align="center" width="100%">
@@ -70,6 +63,17 @@
 
 
 <br/>
+
+<div align="center" style="border: 2px solid navy; padding: 10px; border-radius: 10px; width: 60%; margin: auto;">
+
+### 🎯 Goals for 2025
+⭐ Contribute to an open-source project  
+⭐ Learn TypeScript & improve backend skills  
+⭐ Work on UI/UX improvements in my projects  
+⭐ Build a side project that helps the community  
+
+</div>
+
 <h1 align="center">
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
   &nbsp;Technologies that I know
