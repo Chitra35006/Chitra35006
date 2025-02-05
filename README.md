@@ -7,7 +7,31 @@
 <h1 align="center">Hi <img src = "https://i.ibb.co/cKMBv729/hi.gif" width="50px" height="50px">, I'm Chitra</h1>  
 <h3 align="center">A passionate Frontend Developer from 🇧🇩</h3>  
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<br />
+
+<!-- right side img -->
+<img align='right' height='180'  src='https://i.ibb.co/Ps2sZN83/back-to-school-14869-256.gif'>
+
+<br />
+
+<div>
+<!-- left side section -->
+## 📖 Favorite Quote:
+  
+> "And He found you lost and guided [you]"> 
+- 🔭 I’m currently working on [...thisProject]
+- 🖥️ I’m currently learning **JWT and Axios Interceptor**
+- 👨‍💻 Ask me about **HTML, CSS, TailwindCSS, DOM, API, JavaScript, React, Nodejs, Mongodb,  firebase**
+- ⚡ Fun fact: 💤 I dream in code sometimes.
+
+</div>
+<br/>
+### 🎯 Goals for 2025
+- 🚀 Contribute to an open-source project  
+- 📚 Learn TypeScript & improve backend skills    
+- 🎨 Work on UI/UX improvements in my projects  
+- 🌍 Build a side project that helps the community  
+
 
 <div align="center" style="overflow: hidden;">
    <table align="center" width="100%">
