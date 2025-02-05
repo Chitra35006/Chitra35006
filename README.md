@@ -13,16 +13,13 @@
 <h2 align="left">About me</h2>
 
 ###
-I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, Bangladesh**. I am highly enthusiastic and curious to explore and learn new advancements in this field.
+I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, Bangladesh**. I am highly enthusiastic and curious to explore and learn new advancements in this web development field.I have experience working with HTML, CSS, JavaScript, React, Next.js, Node.js, and MongoDB. Currently, I am focused on learning more frameworks and libraries to further enhance my skills and expand my expertise. 🚀
 
-### 💻 Tech Stack:
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Backend:** Node.js, MongoDB
 
 ### 🏆 Projects:
-- **[Winter Donation](#)** - A donation platform
-- **[WhereIsIt](#)** - A lost & found website
-- **[Perfect Pair](#)** - A matrimonial website
+- **[CrowdCube](https://a-10-crowd-cube.web.app/)** - A donatio platform
+- **[WhereIsIt](https://a-11-whereisit.web.app/)** - A lost & found website
+- **[Perfect Pair](https://a-12-perfect-pair.web.app)** - A matrimonial website
 
 📌 Check out my **[Portfolio](#)** for more details!
 
