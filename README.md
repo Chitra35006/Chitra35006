@@ -76,13 +76,14 @@
         style="max-width: 100%;" 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Chitra35006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph" />
     </td>
-    <td align="center" style="width: 50%; height: 100%; vertical-align: middle;">
-      <h3 align="center">🎯 Goals for 2025</h3>
-      ⭐ Contribute to an open-source project <br>
-      ⭐ Learn TypeScript & improve backend skills <br>
-      ⭐ Work on UI/UX improvements in my projects <br>
-      ⭐ Build a side project that helps the community <br>
-    </td>
+   <td align="left" style="width: 50%; height: 100%; vertical-align: middle; padding-left: 20px;">
+  <h3>🎯 Goals for 2025</h3>
+  ⭐ Contribute to an open-source project <br>
+  ⭐ Learn TypeScript & improve backend skills <br>
+  ⭐ Work on UI/UX improvements in my projects <br>
+  ⭐ Build a side project that helps the community <br>
+</td>
+
   </tr>
 </table>
 
