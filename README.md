@@ -13,8 +13,30 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chitra35006&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Chitra35006&theme=blue-green&hide_border=true&order=3" height="150" alt="streak graph"  />
+   <table align="center" width="100%">
+    <tr>
+      <td colspan="1" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Chitra35006&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&order=1" height="150" alt="stats graph" />
+      </td>
+      <td colspan="1" align="center">
+      <img
+          align="center"
+          width="400px"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chitra35006&theme=blue_green"
+          alt="Profile details" 
+        />
+      </td>
+    </tr>
+      <tr>
+     <td colspan="2">
+       <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
+          <img src="https://streak-stats.demolab.com?user=Chitra35006&theme=blue-green&hide_border=true&order=3" height="150" alt="streak graph"  />
+        </div>
+      </td>
+    </tr>
+    <tr>
+   </table>
+ 
 </div>
 
 
