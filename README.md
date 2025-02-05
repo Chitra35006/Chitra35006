@@ -9,36 +9,39 @@
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-<div align="center">
+<div align="center" style="overflow: hidden;">
    <table align="center" width="100%">
     <tr>
       <td colspan="1" align="center">
         <img 
             width="400px"
-          src="https://github-readme-stats.vercel.app/api?username=Chitra35006&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&order=1" alt="stats graph" />
+            style="max-width: 100%;" 
+            src="https://github-readme-stats.vercel.app/api?username=Chitra35006&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&order=1" 
+            alt="stats graph" />
       </td>
       <td colspan="1" align="center">
-      <img
+        <img
           align="center"
           width="400px"
+          style="max-width: 100%;" 
           src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chitra35006&theme=blue_green"
           alt="Profile details" 
         />
       </td>
     </tr>
-      <tr>
-     <td colspan="2" align="center">
-        <img 
-             align="center"
-          width="70%"
-          src="https://streak-stats.demolab.com?user=Chitra35006&theme=blue-green&hide_border=true&order=3"  alt="streak graph"  />
-        
-  </td>
-    </tr>
     <tr>
+      <td colspan="2" align="center">
+        <img 
+          align="center"
+          width="70%"
+          style="max-width: 100%;" 
+          src="https://streak-stats.demolab.com?user=Chitra35006&theme=blue-green&hide_border=true&order=3"  
+          alt="streak graph"  />
+      </td>
+    </tr>
    </table>
- 
 </div>
+
 
 
 ###
