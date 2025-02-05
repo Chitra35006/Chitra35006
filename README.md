@@ -25,11 +25,12 @@
 - ⚡ Fun fact: 💤 I dream in code sometimes.
 
 </div>
+
 ### 🎯 Goals for 2025
-- 🚀 Contribute to an open-source project  
-- 📚 Learn TypeScript & improve backend skills  
-- 🎨 Work on UI/UX improvements in my projects  
-- 🌍 Build a side project that helps the community  
+⭐ Contribute to an open-source project  
+⭐ Learn TypeScript & improve backend skills  
+⭐ Work on UI/UX improvements in my projects  
+⭐ Build a side project that helps the community  
 
 
 
