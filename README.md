@@ -7,8 +7,6 @@
 <h1 align="center">Hi <img src = "https://i.ibb.co/cKMBv729/hi.gif" width="50px" height="50px">, I'm Chitra</h1>  
 <h3 align="center">A passionate Frontend Developer from 🇧🇩</h3>  
 
-###
-
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 ###
 
