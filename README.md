@@ -3,6 +3,10 @@
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=Chitra35006&label=Profile%20views&color=6f42c1&style=flat" alt="Chitra35006" />
 </span> 
+<span>
+  <img src="https://img.shields.io/badge/focus-FullStack-critical" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/living-Narayanganj-3c9" alt="Living Badge" />
+</span>
 
 ###
 
