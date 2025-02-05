@@ -17,7 +17,7 @@ I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, 
 
 
 ### 🏆 Projects:
-- **[CrowdCube](https://a-10-crowd-cube.web.app/)** - A donatio platform
+- **[CrowdCube](https://a-10-crowd-cube.web.app/)** - A donation platform
 - **[WhereIsIt](https://a-11-whereisit.web.app/)** - A lost & found website
 - **[Perfect Pair](https://a-12-perfect-pair.web.app)** - A matrimonial website
 
