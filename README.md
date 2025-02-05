@@ -82,6 +82,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=2000&center=true&vCenter=true&width=700&lines=HTML5+CSS3+JavaScript+React+;ES6+Redux+React-Router+Context-API+Git+;Tailwind-CSS+Styled-Components+Ant Design+MaterialUI;Firebase+Nodejs+ExpressJs+MongoDB+JWT;React-Native+NextJs+Netlify" alt="Typing SVG" />
   </a>
 </p
+
+  <br/>
 <h1 align="center">
 Contact with me 
   </h1>
