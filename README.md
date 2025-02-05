@@ -136,6 +136,17 @@ Contact with me
 </div>
 
 <br/>
+###
+
+<img src="https://raw.githubusercontent.com/Chitra35006/Chitra35006/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Chitra35006/count.svg?"  />
+</div>
+
+###
 
 
 
