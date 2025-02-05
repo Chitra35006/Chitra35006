@@ -137,11 +137,7 @@ Contact with me
   </a>
 </div>
 
-<br/>
-<img src="https://raw.githubusercontent.com/Chitra35006/Chitra35006/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-
-###
 
 
 
