@@ -48,15 +48,16 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img 
-          align="center"
-          width="70%"
-          style="max-width: 100%;" 
-          src="https://streak-stats.demolab.com?user=Chitra35006&theme=blue-green&hide_border=true&order=3"  
-          alt="streak graph"  />
-      </td>
-    </tr>
+  <td colspan="2" align="center">
+    <img 
+      align="center"
+      width="70%"
+      style="max-width: 100%;" 
+      src="https://streak-stats.demolab.com?user=Chitra35006&theme=blue-green&hide_border=true&order=3"  
+      alt="streak graph"  />
+  </td>
+</tr>
+
    </table>
 </div>
 
