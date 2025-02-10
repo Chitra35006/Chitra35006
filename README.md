@@ -25,7 +25,7 @@ I have obtained a **B.Sc. Engg in CSE** from **Sylhet International University, 
 - **[WhereIsIt](https://a-11-whereisit.web.app/)** - A lost & found website
 - **[Perfect Pair](https://a-12-perfect-pair.web.app)** - A matrimonial website
 
-📌 Check out my **[Portfolio](chitra-das-cse.netlify.app)**
+📌 Check out my **[Portfolio](https://chitra-das-cse.netlify.app/)**
 
 
 <!-- right side img -->
