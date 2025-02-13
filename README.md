@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/Chitra35006/5_practice/blob/4499f889cda5b472e5a799a784eac671b91f11e6/b5.jpg"  />
+  <img width="100%" src="https://github.com/Chitra35006/5_practice/blob/6d2e9019083899c2e9d29024ddb44ef14ee392c9/WhatsApp%20Image%202025-02-12%20at%2012.35.11_6111421f.jpg"  />
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=Chitra35006&label=Profile%20views&color=6f42c1&style=flat" alt="Chitra35006" />
 </span> 
